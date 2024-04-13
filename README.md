@@ -1,7 +1,4 @@
-My name is Matan Shamir.
-I'm a Computer Science student, currently in my 2nd year of bachelor degree in Bar Ilan University, Israel.
-As you can see in my repositories, I have developing experience in languages such as C, Java, C++ and Python.
-I am also interested in cyber security and have taken several courses online.
+My name is Matan Shamir, an MS.c in BIU
 
 <!---
 MatanShamir1/MatanShamir1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
